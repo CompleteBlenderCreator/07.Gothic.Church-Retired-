@@ -12,12 +12,29 @@ Enjoy yourselves.
 Ben Tristem & Michael Bridges
 
 # Section Introduction
+
 * You are going to make several models. 
 * We’ll be making both high poly and low poly versions of out assets.
 * We will emphasise how critical naming is when working with a larger project like this.
 * You will be able to create your own mapping, with these we can make the illusion of detail.
 * We’ll be constantly checking our model externally
 * This will be focused mainly on an interior environment.
+
+# Section Specification
+
+* Create assets to be exported straight into an external program, like a game engine.
+* Creating our own textures, and other maps from high detail models and apply them to a low poly version.
+* Only modelling the interior of the Gothic Church.
+
+* You can use this technique within Blender itself too for optimisation. 
+* I am going to be testing my model externally as I go. I will use Unity to do this.
+
+* I will be keeping my scene simple, primarily for teaching purposes! 
+* I encourage you to add more detail, experiment and have fun. Wouldn’t the scene look much more interesting with a chess set in it…
+
+# Planning Your Project
+* Plan your project, define it’s scope and your goals- important to prevent scope slip!
+* Gather your reference material, if possible explore real world locations to get a feeling. Scour the web for images for you references too.
 
 
 ——
