@@ -36,6 +36,14 @@ Ben Tristem & Michael Bridges
 * Plan your project, define it’s scope and your goals- important to prevent scope slip!
 * Gather your reference material, if possible explore real world locations to get a feeling. Scour the web for images for you references too.
 
+# Walking And Flying Around The Model
+* See how our scene looks and feels walking around it. Using the Fly / Walk Mode.
+* Show you how to see the scene in Unity.
+* Understand I am using Unity to keep the iterations quick and simple at this early stage.
+
+* Anything external to Blender, you can watch to see how it works and is coming across.
+* Better understanding of external programs.
+* Join in, if you have Unity installed and are interested in learning more about this prototyping method.
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
