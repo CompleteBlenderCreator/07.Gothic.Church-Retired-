@@ -45,6 +45,12 @@ Ben Tristem & Michael Bridges
 * Better understanding of external programs.
 * Join in, if you have Unity installed and are interested in learning more about this prototyping method.
 
+# Light Portals
+* Learn how to use light portals.
+* Understand the limitations of their use.
+* See that they dramatically increase quality and are especially useful for indoor environments.
+* They aren’t used externally to Blender. 
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
