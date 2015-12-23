@@ -51,6 +51,20 @@ Ben Tristem & Michael Bridges
 * See that they dramatically increase quality and are especially useful for indoor environments.
 * They aren’t used externally to Blender. 
 
+# UV Mapping In Blender
+
+* No long ask what does UV stand for?!
+* Overview the mapping in upcoming lectures
+* Understand that we will be creating these maps from scratch, and then using them again to speed up further workflow.
+* X,Y and Z are used for the Co-ordinates.
+* UV are like the ‘X’ and ‘Y’ co-ordinates of an image.
+* UV mapping is the process of projecting a 2D image to a 3D model's surface.
+* They create the illusion of surface detail by mapping part of an image to the geometry on our model. 
+* They can be applied automatically, great for basic models. Generating a UV map gives best results.
+* Diffuse Map: The base colour of the geometry.
+* Bump Maps: Tell the shader how to react with light.
+
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
