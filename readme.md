@@ -64,6 +64,11 @@ Ben Tristem & Michael Bridges
 * Diffuse Map: The base colour of the geometry.
 * Bump Maps: Tell the shader how to react with light.
 
+# The Multi-Resolution Modifier
+* Learn how to use the multi resolution modifier.
+* See it is great for multiple resolutions of a model.
+* Learn to control how sharp edges.
+* Understand that this is best apply to a base mesh that is the final low-poly version. 
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
