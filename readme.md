@@ -74,7 +74,7 @@ Ben Tristem & Michael Bridges
 * See a potential issue you may encounter when you use any form of subsurface division.
 * Finish off the solution to the previous challenge.
 
-# 
+# Copying Mesh Properties
 * Learn how to copy attributes of a mesh object.
 * See this is great when you have lots of components, for e.g. need the same material.
 * Understand it’s a destructive operation e.g. copying materials will overwrite a meshes current materials.
