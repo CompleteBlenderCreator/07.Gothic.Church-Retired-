@@ -70,6 +70,15 @@ Ben Tristem & Michael Bridges
 * Learn to control how sharp edges.
 * Understand that this is best apply to a base mesh that is the final low-poly version. 
 
+# Solving Issues With Subdivision
+* See a potential issue you may encounter when you use any form of subsurface division.
+* Finish off the solution to the previous challenge.
+
+# 
+* Learn how to copy attributes of a mesh object.
+* See this is great when you have lots of components, for e.g. need the same material.
+* Understand it’s a destructive operation e.g. copying materials will overwrite a meshes current materials.
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
