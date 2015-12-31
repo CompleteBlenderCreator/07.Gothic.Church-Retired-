@@ -79,6 +79,18 @@ Ben Tristem & Michael Bridges
 * See this is great when you have lots of components, for e.g. need the same material.
 * Understand it’s a destructive operation e.g. copying materials will overwrite a meshes current materials.
 
+# GC11 UV Unwrapping
+* Understand what unwrapping is.
+* Learn about seems.
+* See the different default unwrapping options.
+* Remember a UV map, is a projection of a 3D mesh to a 2D image.
+* Unwrapping give us control over any maps we want to place on our model.
+* This is because it maps the mesh co-ordinates to the image.
+* Essential when using assets outside Blender
+* Unwrapping isn’t necessary to apply maps to a mesh in Blender 
+* We can let blender ‘guess’ how to apply a map.
+* However if you want control over how something looks it is essential.
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
