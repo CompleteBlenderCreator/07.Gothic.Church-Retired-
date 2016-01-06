@@ -79,7 +79,7 @@ Ben Tristem & Michael Bridges
 * See this is great when you have lots of components, for e.g. need the same material.
 * Understand it’s a destructive operation e.g. copying materials will overwrite a meshes current materials.
 
-# GC11 UV Unwrapping
+# UV Unwrapping
 * Understand what unwrapping is.
 * Learn about seems.
 * See the different default unwrapping options.
@@ -90,6 +90,17 @@ Ben Tristem & Michael Bridges
 * Unwrapping isn’t necessary to apply maps to a mesh in Blender 
 * We can let blender ‘guess’ how to apply a map.
 * However if you want control over how something looks it is essential.
+
+# Texture Resolution
+* Understand that resolution will control the level of detail at a particular distance.
+* Realise when a texture is too large or too small.
+* Learn about the power of two (POT) and why and when it is important.
+* Computers work with 1s and 0s, or Binary.
+* A lot of external programs like POT textures.
+* They aren’t necessary but are a good standard to adhere too, especially when working with external programs.
+* Don’t have to be ‘square’, providing side length is a POT.
+* Mathematically they’ll be 2 to the power of n or 2^n. eg. 2^5 = 32
+* If you have been around computers for a while you’ll recognise this sequence: 2, 4, 8, 16, 32, 64, 128, 256, 512,1024, 2048, etc.
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
