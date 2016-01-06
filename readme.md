@@ -11,7 +11,7 @@ Enjoy yourselves.
 
 Ben Tristem & Michael Bridges
 
-# Section Introduction
+## Section Introduction
 
 * You are going to make several models. 
 * We’ll be making both high poly and low poly versions of out assets.
@@ -20,7 +20,7 @@ Ben Tristem & Michael Bridges
 * We’ll be constantly checking our model externally
 * This will be focused mainly on an interior environment.
 
-# Section Specification
+## Section Specification
 
 * Create assets to be exported straight into an external program, like a game engine.
 * Creating our own textures, and other maps from high detail models and apply them to a low poly version.
@@ -32,11 +32,11 @@ Ben Tristem & Michael Bridges
 * I will be keeping my scene simple, primarily for teaching purposes! 
 * I encourage you to add more detail, experiment and have fun. Wouldn’t the scene look much more interesting with a chess set in it…
 
-# Planning Your Project
+## Planning Your Project
 * Plan your project, define it’s scope and your goals- important to prevent scope slip!
 * Gather your reference material, if possible explore real world locations to get a feeling. Scour the web for images for you references too.
 
-# Walking And Flying Around The Model
+## Walking And Flying Around The Model
 * See how our scene looks and feels walking around it. Using the Fly / Walk Mode.
 * Show you how to see the scene in Unity.
 * Understand I am using Unity to keep the iterations quick and simple at this early stage.
@@ -45,13 +45,13 @@ Ben Tristem & Michael Bridges
 * Better understanding of external programs.
 * Join in, if you have Unity installed and are interested in learning more about this prototyping method.
 
-# Light Portals
+## Light Portals
 * Learn how to use light portals.
 * Understand the limitations of their use.
 * See that they dramatically increase quality and are especially useful for indoor environments.
 * They aren’t used externally to Blender. 
 
-# UV Mapping In Blender
+## UV Mapping In Blender
 
 * No long ask what does UV stand for?!
 * Overview the mapping in upcoming lectures
@@ -64,22 +64,22 @@ Ben Tristem & Michael Bridges
 * Diffuse Map: The base colour of the geometry.
 * Bump Maps: Tell the shader how to react with light.
 
-# The Multi-Resolution Modifier
+## The Multi-Resolution Modifier
 * Learn how to use the multi resolution modifier.
 * See it is great for multiple resolutions of a model.
 * Learn to control how sharp edges.
 * Understand that this is best apply to a base mesh that is the final low-poly version. 
 
-# Solving Issues With Subdivision
+## Solving Issues With Subdivision
 * See a potential issue you may encounter when you use any form of subsurface division.
 * Finish off the solution to the previous challenge.
 
-# Copying Mesh Properties
+## Copying Mesh Properties
 * Learn how to copy attributes of a mesh object.
 * See this is great when you have lots of components, for e.g. need the same material.
 * Understand it’s a destructive operation e.g. copying materials will overwrite a meshes current materials.
 
-# UV Unwrapping
+## UV Unwrapping
 * Understand what unwrapping is.
 * Learn about seems.
 * See the different default unwrapping options.
@@ -91,7 +91,7 @@ Ben Tristem & Michael Bridges
 * We can let blender ‘guess’ how to apply a map.
 * However if you want control over how something looks it is essential.
 
-# Texture Resolution
+## Texture Resolution
 * Understand that resolution will control the level of detail at a particular distance.
 * Realise when a texture is too large or too small.
 * Learn about the power of two (POT) and why and when it is important.
@@ -101,6 +101,12 @@ Ben Tristem & Michael Bridges
 * Don’t have to be ‘square’, providing side length is a POT.
 * Mathematically they’ll be 2 to the power of n or 2^n. eg. 2^5 = 32
 * If you have been around computers for a while you’ll recognise this sequence: 2, 4, 8, 16, 32, 64, 128, 256, 512,1024, 2048, etc.
+
+## Optimising A UV Map
+* Be using Blender Render.
+* Making your UV map more uniform, minimising distortion and optimising image use.
+* Understand the use of margins
+* Learn more about seams and their placement.
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
