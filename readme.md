@@ -108,6 +108,10 @@ Ben Tristem & Michael Bridges
 * Understand the use of margins
 * Learn more about seams and their placement.
 
+## The Diffuse Map
+* Paint onto your model!
+* Be creating the diffuse map from scratch
+* Defuse map is for the colour changes in a model, not necessarily surface detail.
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
