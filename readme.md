@@ -3,6 +3,8 @@
 
 Part of the Complete Blender Creator course on Udemy, see [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) for a special GitHub offer. The full course is part of [this](https://www.kickstarter.com/projects/bentristem/how-to-create-3d-assets-using-blender-online-cours) Kickstarter campaign which was 1000% funded.
 
+Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
+
 These are just the files from the course, not the actual tutorial videos. At the time of writing this course has several hours of high-quality videos.
 
 You're welcome to download, fork or do whatever else legal with all the files!
@@ -30,7 +32,7 @@ Ben Tristem & Michael Bridges
 * I am going to be testing my model externally as I go. I will use Unity to do this.
 
 * I will be keeping my scene simple, primarily for teaching purposes! 
-* I encourage you to add more detail, experiment and have fun. Wouldn’t the scene look much more interesting with a chess set in it…
+* I encourage you to add more detail, experiment and have fun. Wouldn’t the scene look much more interesting with a chess set in it.
 
 ## Planning Your Project
 * Plan your project, define it’s scope and your goals- important to prevent scope slip!
@@ -112,8 +114,14 @@ Ben Tristem & Michael Bridges
 * Paint onto your model!
 * Be creating the diffuse map from scratch
 * Defuse map is for the colour changes in a model, not necessarily surface detail.
+
+## UV Problems And Solutions
+* Learn what pinning is.
+* See how to reset a UV map if things go wrong.
+* Experience sticky selection mode.
+* Keeping UV Editor and 3D Editor in Sync.
+* Look at the other types of unwrapping.
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
 ---
-Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
