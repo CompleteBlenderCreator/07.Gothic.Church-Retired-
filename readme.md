@@ -123,9 +123,16 @@ Ben Tristem & Michael Bridges
 * Look at the other types of unwrapping.
 
 ## Layering Textures
-*Learn how to layer textures using Blender Render.
-*Understand this is a great way of checking out an effect quickly and simply
-*Have a glimpse at what other maps can do!
+* Learn how to layer textures using Blender Render.
+* Understand this is a great way of checking out an effect quickly and simply
+* Have a glimpse at what other maps can do!
+
+## Working With Cycles & Blender Render
+* Understand that Blender Render (BR) and Cycles are fundamentally different.
+* See how to work with only one material.
+* Realise you might have to create separate BR and Cycles materials.
+
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
