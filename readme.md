@@ -121,6 +121,11 @@ Ben Tristem & Michael Bridges
 * Experience sticky selection mode.
 * Keeping UV Editor and 3D Editor in Sync.
 * Look at the other types of unwrapping.
+
+## Layering Textures
+*Learn how to layer textures using Blender Render.
+*Understand this is a great way of checking out an effect quickly and simply
+*Have a glimpse at what other maps can do!
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
