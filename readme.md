@@ -144,6 +144,10 @@ Ben Tristem & Michael Bridges
 * Create a tiled texture for the walls of our Church.
 * Understand getting it looking right will take time.
 
+## Mesh Re-Topology 
+* Use existing mesh data to create new mesh data.
+* Understand remaking meshes can take a lot of time, but is often part of the workflow especially with organic models.
+* Fix your model, If you have the same problem as me.
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
