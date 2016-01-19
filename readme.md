@@ -132,6 +132,18 @@ Ben Tristem & Michael Bridges
 * See how to work with only one material.
 * Realise you might have to create separate BR and Cycles materials.
 
+## Using A Bump Map In Cycles
+* See how to use B&W image as a bump map.
+* Normal and height maps are both bump maps.
+* See the again illusion of surface detail!
+
+##Creating Tiling Textures
+
+* Understanding what a tiling texture is.
+* We’ll be aiming for a basic texture
+* Create a tiled texture for the walls of our Church.
+* Understand getting it looking right will take time.
+
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
