@@ -161,6 +161,13 @@ Ben Tristem & Michael Bridges
 * See multiple ways to cut down the polygon count in your scene.
 * Understand that the speed of your computer will dictate how complex a scene can be before it starts to become unmanageable.
 
+## Displacement & Height Maps
+* See that these are used to change the underlaying geometry.
+* Understand that they are grey scale images, If you used a colour image it will just use the average of RGB- converting it to greyscale.
+* They aren’t not suited to things like generating a final brick wall. V High Poly count needed for resolution match. 
+* They're very useful for applying detail e.g. scales on a lizard/fish or dragon.
+Great for generating geometry and then optimising or for larger items, like terrain.
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
