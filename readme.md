@@ -157,6 +157,9 @@ Ben Tristem & Michael Bridges
 * Use and understand how the knife tool works.
 * Create uneven geometry by chopping up our existing mesh.
 
+## Polygon Count
+* See multiple ways to cut down the polygon count in your scene.
+* Understand that the speed of your computer will dictate how complex a scene can be before it starts to become unmanageable.
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
