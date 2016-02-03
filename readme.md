@@ -168,6 +168,12 @@ Ben Tristem & Michael Bridges
 * They're very useful for applying detail e.g. scales on a lizard/fish or dragon.
 Great for generating geometry and then optimising or for larger items, like terrain.
 
+## The Displacement Modifier
+* Use your displacement map to alter geometry.
+* Realise that you need geometry to modify.
+* Use the displacement in Blender Render.
+* Then use the Displacement Modifier in the same manner.
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
