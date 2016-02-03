@@ -153,6 +153,9 @@ Ben Tristem & Michael Bridges
 * See the solution to the last video
 * There is multiple repetition, so only the highlights are shown.
 
+## The Knife Tool
+* Use and understand how the knife tool works.
+* Create uneven geometry by chopping up our existing mesh.
 
 
 ——
