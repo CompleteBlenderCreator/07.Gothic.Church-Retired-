@@ -54,6 +54,51 @@ ModelImporter:
     100092: Pillar_Top_MeshPart7
     100094: Pillar_Top_MeshPart8
     100096: Pillar_Top_MeshPart9
+    100098: Back_Side
+    100100: Back_Wall
+    100102: Building_Components
+    100104: Floor
+    100106: Front_Wall
+    100108: Lighting
+    100110: Pillars
+    100112: Plane
+    100114: Plane_MeshPart0
+    100116: Plane_MeshPart1
+    100118: Plane_MeshPart10
+    100120: Plane_MeshPart11
+    100122: Plane_MeshPart12
+    100124: Plane_MeshPart13
+    100126: Plane_MeshPart14
+    100128: Plane_MeshPart15
+    100130: Plane_MeshPart16
+    100132: Plane_MeshPart17
+    100134: Plane_MeshPart18
+    100136: Plane_MeshPart19
+    100138: Plane_MeshPart2
+    100140: Plane_MeshPart20
+    100142: Plane_MeshPart21
+    100144: Plane_MeshPart22
+    100146: Plane_MeshPart23
+    100148: Plane_MeshPart24
+    100150: Plane_MeshPart25
+    100152: Plane_MeshPart26
+    100154: Plane_MeshPart27
+    100156: Plane_MeshPart28
+    100158: Plane_MeshPart29
+    100160: Plane_MeshPart3
+    100162: Plane_MeshPart30
+    100164: Plane_MeshPart31
+    100166: Plane_MeshPart32
+    100168: Plane_MeshPart4
+    100170: Plane_MeshPart5
+    100172: Plane_MeshPart6
+    100174: Plane_MeshPart7
+    100176: Plane_MeshPart8
+    100178: Plane_MeshPart9
+    100180: ROOF
+    100182: Side_Wall
+    100184: Small_Back_Wall
+    100186: Tiled_Texture_Example
     400000: //RootNode
     400002: Main_Floor
     400004: Pillar
@@ -103,6 +148,51 @@ ModelImporter:
     400092: Pillar_Top_MeshPart7
     400094: Pillar_Top_MeshPart8
     400096: Pillar_Top_MeshPart9
+    400098: Back_Side
+    400100: Back_Wall
+    400102: Building_Components
+    400104: Floor
+    400106: Front_Wall
+    400108: Lighting
+    400110: Pillars
+    400112: Plane
+    400114: Plane_MeshPart0
+    400116: Plane_MeshPart1
+    400118: Plane_MeshPart10
+    400120: Plane_MeshPart11
+    400122: Plane_MeshPart12
+    400124: Plane_MeshPart13
+    400126: Plane_MeshPart14
+    400128: Plane_MeshPart15
+    400130: Plane_MeshPart16
+    400132: Plane_MeshPart17
+    400134: Plane_MeshPart18
+    400136: Plane_MeshPart19
+    400138: Plane_MeshPart2
+    400140: Plane_MeshPart20
+    400142: Plane_MeshPart21
+    400144: Plane_MeshPart22
+    400146: Plane_MeshPart23
+    400148: Plane_MeshPart24
+    400150: Plane_MeshPart25
+    400152: Plane_MeshPart26
+    400154: Plane_MeshPart27
+    400156: Plane_MeshPart28
+    400158: Plane_MeshPart29
+    400160: Plane_MeshPart3
+    400162: Plane_MeshPart30
+    400164: Plane_MeshPart31
+    400166: Plane_MeshPart32
+    400168: Plane_MeshPart4
+    400170: Plane_MeshPart5
+    400172: Plane_MeshPart6
+    400174: Plane_MeshPart7
+    400176: Plane_MeshPart8
+    400178: Plane_MeshPart9
+    400180: ROOF
+    400182: Side_Wall
+    400184: Small_Back_Wall
+    400186: Tiled_Texture_Example
     2300000: Main_Floor
     2300002: Pillar
     2300004: Sphere
@@ -148,6 +238,49 @@ ModelImporter:
     2300084: Pillar_Top_MeshPart7
     2300086: Pillar_Top_MeshPart8
     2300088: Pillar_Top_MeshPart9
+    2300090: Back_Side
+    2300092: Back_Wall
+    2300094: Floor
+    2300096: Front_Wall
+    2300098: Pillar_Base
+    2300100: Pillar_Top
+    2300102: Plane_MeshPart0
+    2300104: Plane_MeshPart1
+    2300106: Plane_MeshPart10
+    2300108: Plane_MeshPart11
+    2300110: Plane_MeshPart12
+    2300112: Plane_MeshPart13
+    2300114: Plane_MeshPart14
+    2300116: Plane_MeshPart15
+    2300118: Plane_MeshPart16
+    2300120: Plane_MeshPart17
+    2300122: Plane_MeshPart18
+    2300124: Plane_MeshPart19
+    2300126: Plane_MeshPart2
+    2300128: Plane_MeshPart20
+    2300130: Plane_MeshPart21
+    2300132: Plane_MeshPart22
+    2300134: Plane_MeshPart23
+    2300136: Plane_MeshPart24
+    2300138: Plane_MeshPart25
+    2300140: Plane_MeshPart26
+    2300142: Plane_MeshPart27
+    2300144: Plane_MeshPart28
+    2300146: Plane_MeshPart29
+    2300148: Plane_MeshPart3
+    2300150: Plane_MeshPart30
+    2300152: Plane_MeshPart31
+    2300154: Plane_MeshPart32
+    2300156: Plane_MeshPart4
+    2300158: Plane_MeshPart5
+    2300160: Plane_MeshPart6
+    2300162: Plane_MeshPart7
+    2300164: Plane_MeshPart8
+    2300166: Plane_MeshPart9
+    2300168: ROOF
+    2300170: Side_Wall
+    2300172: Small_Back_Wall
+    2300174: Tiled_Texture_Example
     3300000: Main_Floor
     3300002: Pillar
     3300004: Sphere
@@ -193,6 +326,49 @@ ModelImporter:
     3300084: Pillar_Top_MeshPart7
     3300086: Pillar_Top_MeshPart8
     3300088: Pillar_Top_MeshPart9
+    3300090: Back_Side
+    3300092: Back_Wall
+    3300094: Floor
+    3300096: Front_Wall
+    3300098: Pillar_Base
+    3300100: Pillar_Top
+    3300102: Plane_MeshPart0
+    3300104: Plane_MeshPart1
+    3300106: Plane_MeshPart10
+    3300108: Plane_MeshPart11
+    3300110: Plane_MeshPart12
+    3300112: Plane_MeshPart13
+    3300114: Plane_MeshPart14
+    3300116: Plane_MeshPart15
+    3300118: Plane_MeshPart16
+    3300120: Plane_MeshPart17
+    3300122: Plane_MeshPart18
+    3300124: Plane_MeshPart19
+    3300126: Plane_MeshPart2
+    3300128: Plane_MeshPart20
+    3300130: Plane_MeshPart21
+    3300132: Plane_MeshPart22
+    3300134: Plane_MeshPart23
+    3300136: Plane_MeshPart24
+    3300138: Plane_MeshPart25
+    3300140: Plane_MeshPart26
+    3300142: Plane_MeshPart27
+    3300144: Plane_MeshPart28
+    3300146: Plane_MeshPart29
+    3300148: Plane_MeshPart3
+    3300150: Plane_MeshPart30
+    3300152: Plane_MeshPart31
+    3300154: Plane_MeshPart32
+    3300156: Plane_MeshPart4
+    3300158: Plane_MeshPart5
+    3300160: Plane_MeshPart6
+    3300162: Plane_MeshPart7
+    3300164: Plane_MeshPart8
+    3300166: Plane_MeshPart9
+    3300168: ROOF
+    3300170: Side_Wall
+    3300172: Small_Back_Wall
+    3300174: Tiled_Texture_Example
     4300000: Main_Floor
     4300002: Pillar
     4300004: Sphere
@@ -238,6 +414,49 @@ ModelImporter:
     4300084: Pillar_Base_MeshPart7
     4300086: Pillar_Base_MeshPart8
     4300088: Pillar_Base_MeshPart9
+    4300090: Plane_MeshPart0
+    4300092: Plane_MeshPart1
+    4300094: Plane_MeshPart2
+    4300096: Plane_MeshPart3
+    4300098: Plane_MeshPart4
+    4300100: Plane_MeshPart5
+    4300102: Plane_MeshPart6
+    4300104: Plane_MeshPart7
+    4300106: Plane_MeshPart8
+    4300108: Plane_MeshPart9
+    4300110: Plane_MeshPart10
+    4300112: Plane_MeshPart11
+    4300114: Plane_MeshPart12
+    4300116: Plane_MeshPart13
+    4300118: Plane_MeshPart14
+    4300120: Plane_MeshPart15
+    4300122: Plane_MeshPart16
+    4300124: Plane_MeshPart17
+    4300126: Plane_MeshPart18
+    4300128: Plane_MeshPart19
+    4300130: Plane_MeshPart20
+    4300132: Plane_MeshPart21
+    4300134: Plane_MeshPart22
+    4300136: Plane_MeshPart23
+    4300138: Plane_MeshPart24
+    4300140: Plane_MeshPart25
+    4300142: Plane_MeshPart26
+    4300144: Plane_MeshPart27
+    4300146: Plane_MeshPart28
+    4300148: Plane_MeshPart29
+    4300150: Plane_MeshPart30
+    4300152: Plane_MeshPart31
+    4300154: Plane_MeshPart32
+    4300156: Tiled_Texture_Example
+    4300158: Pillar_Base
+    4300160: Pillar_Top
+    4300162: ROOF
+    4300164: Back_Side
+    4300166: Small_Back_Wall
+    4300168: Side_Wall
+    4300170: Back_Wall
+    4300172: Front_Wall
+    4300174: Floor
     7400000: Default Take
     9500000: //RootNode
   materials:

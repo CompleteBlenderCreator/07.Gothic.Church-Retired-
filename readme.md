@@ -174,6 +174,21 @@ Great for generating geometry and then optimising or for larger items, like terr
 * Use the displacement in Blender Render.
 * Then use the Displacement Modifier in the same manner.
 
+## Normal Maps
+* Understand they are a type of bump map.
+* Gain a greater understanding of how normals work.
+* They contain direction information not height information.
+
+### Normal Maps
+* Contain direction information not height information.
+* The RGB colour channels define the direction of a normal.
+* XYZ components are defined with Red, Green, Blue.
+
+### Normal Maps Appearance
+* When creating normal maps they are affected by whether or not the mesh object * has smooth shading turned on.
+* Normal direction is very important otherwise the map will be useless.
+
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
