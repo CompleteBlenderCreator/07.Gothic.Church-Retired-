@@ -104,6 +104,11 @@ Ben Tristem & Michael Bridges
 * Mathematically they’ll be 2 to the power of n or 2^n. eg. 2^5 = 32
 * If you have been around computers for a while you’ll recognise this sequence: 2, 4, 8, 16, 32, 64, 128, 256, 512,1024, 2048, etc.
 
+## Managing Multiple Maps
+* Reinforce your naming structure.
+* See that I am using: OBJ_SIZE_TYPE.png
+* Learn the order to do things in.
+
 ## Optimising A UV Map
 * Be using Blender Render.
 * Making your UV map more uniform, minimising distortion and optimising image use.
@@ -137,8 +142,7 @@ Ben Tristem & Michael Bridges
 * Normal and height maps are both bump maps.
 * See the again illusion of surface detail!
 
-##Creating Tiling Textures
-
+## Creating Tiling Textures
 * Understanding what a tiling texture is.
 * We’ll be aiming for a basic texture
 * Create a tiled texture for the walls of our Church.
@@ -179,15 +183,18 @@ Great for generating geometry and then optimising or for larger items, like terr
 * Gain a greater understanding of how normals work.
 * They contain direction information not height information.
 
-### Normal Maps
+## Normal Maps
 * Contain direction information not height information.
 * The RGB colour channels define the direction of a normal.
 * XYZ components are defined with Red, Green, Blue.
 
-### Normal Maps Appearance
+## Normal Maps Appearance
 * When creating normal maps they are affected by whether or not the mesh object * has smooth shading turned on.
 * Normal direction is very important otherwise the map will be useless.
 
+## Creating Normal Maps
+* Create a normal map for our pillar detail.
+* Add some more geometric detail to the brick work and create a normal map of that.
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
